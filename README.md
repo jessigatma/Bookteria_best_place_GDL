@@ -26,7 +26,7 @@ This project requires the neighborhoods of the city of Guadalajara, these neighb
 
 Later it will be used <a href='https://nominatim.org/'>Nominatim</a> to geocode postal codes obtained from the postal service.
 
-![geocoded_data](lat_long_neighbors.jpg) 
+![geocoded_data](latlong.jpg) 
 
 Once the georeferenced data of the neighborhoods is available, the application will be used <a href='https://es.foursquare.com/'> Foursquare </a> to find the ones with universities. A filter will be made to have only those neighborhoods with universities.
 
