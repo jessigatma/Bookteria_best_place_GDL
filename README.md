@@ -22,7 +22,7 @@ What will be generated are neighborhood clusters (with a university) with a high
 
 This project requires the neighborhoods of the city of Guadalajara, these neighborhoods together with their zip code will be obtained from the page of the Mexican postal service: https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx
 
-![postal_codes](codigos_postales_tabla.jpg) 
+![postal_codes](postalcode.jpg) 
 
 Later it will be used <a href='https://nominatim.org/'>Nominatim</a> to geocode postal codes obtained from the postal service.
 
